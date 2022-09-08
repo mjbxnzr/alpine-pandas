@@ -2,4 +2,4 @@
 
 # Alpine-pandas
 
-To create a pre-build pandas with alpine iamge for faster build time when using pandas with alpine as the base image.
+To create a pre-build pandas with alpine image for faster build time when using pandas with alpine.
